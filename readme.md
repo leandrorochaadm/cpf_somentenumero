@@ -5,5 +5,7 @@
 Ele concatenará as string e filtrará, deixando somente os numero
 
 ### Por exemplo no terminal ou no comando executar(win+r)
-* cpf (69) 33422-1155 <enter> 69334221115
-* cpf 18.124.154/0001-41 <enter> 18124154000141
+* cpf (69) 33422-1155 [precione tecla enter] 
+	resultado na area de tranferencia seŕa 69334221155
+* cpf 18.124.154/0001-41  [precione tecla enter]
+         resultado na area de tranferencia seŕa 18124154000141
